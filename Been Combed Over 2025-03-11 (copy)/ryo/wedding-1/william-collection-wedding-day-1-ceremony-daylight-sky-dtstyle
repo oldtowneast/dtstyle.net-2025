@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+    <info>
+        <name>Wm Collection|Wedding Day 1|Ceremony Daylight Sky</name>
+        <description></description>
+    </info>
+    <style>
+        <plugin>
+            <num>24</num>
+            <module>3</module>
+            <operation>temperature</operation>
+            <op_params>fcdfed3f0000803f0000e63f00000000</op_params>
+            <enabled>1</enabled>
+            <blendop_params>gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg=</blendop_params>
+            <blendop_version>11</blendop_version>
+            <multi_priority>0</multi_priority>
+            <multi_name></multi_name>
+            <multi_name_hand_edited>0</multi_name_hand_edited>
+        </plugin>
+        <plugin>
+            <num>23</num>
+            <module>3</module>
+            <operation>channelmixerrgb</operation>
+            <op_params>gz04eJxjYGiwZ8AAxIqRD9iBmAmIWYCYEYjnnTtul3D1pF1bZqEryC5GqDwAt14JYA==</op_params>
+            <enabled>0</enabled>
+            <blendop_params>gz10eJxjYGBgYAFiCQYYOOHEgAZY0QVwggZ7CB6pfOygYtaVAyCMi08IAAB/xiOk</blendop_params>
+            <blendop_version>11</blendop_version>
+            <multi_priority>0</multi_priority>
+            <multi_name></multi_name>
+            <multi_name_hand_edited>0</multi_name_hand_edited>
+        </plugin>
+    </style>
+</darktable_style>
